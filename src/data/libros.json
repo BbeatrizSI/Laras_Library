@@ -1,0 +1,182 @@
+[
+    {
+      "id": 1,
+      "titulo": "Como si fuera nuestra primera vez",
+      "autor": "Verónica Espinosa",
+      "genero": "Romance Lésbico",
+      "sinopsis": "Una historia sobre segundas oportunidades y el redescubrimiento del amor entre dos mujeres que deciden empezar de cero.",
+      "portada": "https://books.google.com/books/content?id=jXz0EAAAQBAJ&printsec=frontcover&img=1&zoom=1",
+      "enlace": "https://drive.google.com/file/d/TU_ID/view"
+    },
+    {
+      "id": 2,
+      "titulo": "Náufragas",
+      "autor": "Nerea Morte",
+      "genero": "Romance",
+      "sinopsis": "Dos vidas a la deriva que encuentran un puerto seguro la una en la otra, enfrentando sus miedos y el pasado.",
+      "portada": "https://books.google.com/books/content?id=N7LWEAAAQBAJ&printsec=frontcover&img=1&zoom=1",
+      "enlace": "https://drive.google.com/file/d/TU_ID/view"
+    },
+    {
+      "id": 3,
+      "titulo": "Besos sabor a chocolate",
+      "autor": "Clara Ann Simons",
+      "genero": "Romance Navideño",
+      "sinopsis": "Un relato dulce ambientado en Navidad donde un encuentro inesperado cambia los planes de invierno.",
+      "portada": "https://books.google.com/books/content?id=M8LZEAAAQBAJ&printsec=frontcover&img=1&zoom=1",
+      "enlace": "https://drive.google.com/file/d/TU_ID/view"
+    },
+    {
+      "id": 4,
+      "titulo": "Una abogada por Navidad",
+      "autor": "Clara Ann Simons",
+      "genero": "Romance Navideño",
+      "sinopsis": "Leyes, nieve y un romance inesperado que pondrá a prueba las prioridades de una abogada muy ocupada.",
+      "portada": "https://books.google.com/books/content?id=68LZEAAAQBAJ&printsec=frontcover&img=1&zoom=1",
+      "enlace": "https://drive.google.com/file/d/TU_ID/view"
+    },
+    {
+      "id": 5,
+      "titulo": "Reencuentro en Navidad",
+      "autor": "Judit Tarazaga",
+      "genero": "Romance Navideño",
+      "sinopsis": "El regreso a casa por vacaciones trae consigo un encuentro con el pasado que aún tiene mucho que decir.",
+      "portada": "https://books.google.com/books/content?id=f_GZEAAAQBAJ&printsec=frontcover&img=1&zoom=1",
+      "enlace": "https://drive.google.com/file/d/TU_ID/view"
+    },
+    {
+      "id": 6,
+      "titulo": "La soledad de Bloomsbury",
+      "autor": "Sonia Lasa",
+      "genero": "Histórico / Romance",
+      "sinopsis": "En el Londres de los años 50, la lucha por la libertad individual y el amor se entrelazan.",
+      "portada": "https://books.google.com/books/content?id=L8LZEAAAQBAJ&printsec=frontcover&img=1&zoom=1",
+      "enlace": "https://drive.google.com/file/d/TU_ID/view"
+    },
+    {
+      "id": 7,
+      "titulo": "Carol",
+      "autor": "Patricia Highsmith",
+      "genero": "Clásico / Romance",
+      "sinopsis": "La emblemática historia de amor entre Therese y Carol, desafiando las convenciones sociales de los años 50.",
+      "portada": "https://books.google.com/books/content?id=XmR8DwAAQBAJ&printsec=frontcover&img=1&zoom=1",
+      "enlace": "https://drive.google.com/file/d/TU_ID/view"
+    },
+    {
+      "id": 8,
+      "titulo": "TOUSY MOUSY",
+      "autor": "Sangue Shi",
+      "genero": "Romance Victoriano",
+      "sinopsis": "Un delicado romance de época donde las flores y los gestos silenciosos dicen más que las palabras.",
+      "portada": "https://books.google.com/books/content?id=U8LZEAAAQBAJ&printsec=frontcover&img=1&zoom=1",
+      "enlace": "https://drive.google.com/file/d/TU_ID/view"
+    },
+    {
+      "id": 9,
+      "titulo": "La seducción",
+      "autor": "Sara Torres",
+      "genero": "Ficción Queer",
+      "sinopsis": "Una novela sobre el deseo, la espera y la anatomía de la atracción entre mujeres.",
+      "portada": "https://books.google.com/books/content?id=B5m0EAAAQBAJ&printsec=frontcover&img=1&zoom=1",
+      "enlace": "https://drive.google.com/file/d/TU_ID/view"
+    },
+    {
+      "id": 10,
+      "titulo": "Tomates verdes fritos",
+      "autor": "Fannie Flagg",
+      "genero": "Drama / Amistad",
+      "sinopsis": "Un viaje emocional a través de la amistad y la valentía de dos mujeres en el sur de Estados Unidos.",
+      "portada": "https://books.google.com/books/content?id=S0-yDwAAQBAJ&printsec=frontcover&img=1&zoom=1",
+      "enlace": "https://drive.google.com/file/d/TU_ID/view"
+    },
+    {
+      "id": 11,
+      "titulo": "Bahía Negra",
+      "autor": "Úrsula Guarnido",
+      "genero": "Thriller Romántico",
+      "sinopsis": "Misterio y pasión se encuentran en un pueblo donde todos esconden algo tras la fachada de calma.",
+      "portada": "https://books.google.com/books/content?id=HMLZEAAAQBAJ&printsec=frontcover&img=1&zoom=1",
+      "enlace": "https://drive.google.com/file/d/TU_ID/view"
+    },
+    {
+      "id": 12,
+      "titulo": "Bajo la luz de Bourbon Street",
+      "autor": "Úrsula Guarnido",
+      "genero": "Romance Lésbico",
+      "sinopsis": "La vibrante Nueva Orleans es el escenario donde la música y el amor fluyen sin descanso.",
+      "portada": "https://books.google.com/books/content?id=IMLZEAAAQBAJ&printsec=frontcover&img=1&zoom=1",
+      "enlace": "https://drive.google.com/file/d/TU_ID/view"
+    },
+    {
+      "id": 13,
+      "titulo": "El priorato del naranjo",
+      "autor": "Samantha Shannon",
+      "genero": "Fantasía Épica",
+      "sinopsis": "Una épica sobre jinetes de dragones, reinas y una antigua amenaza que renace de las cenizas.",
+      "portada": "https://books.google.com/books/content?id=0XmIDwAAQBAJ&printsec=frontcover&img=1&zoom=1",
+      "enlace": "https://drive.google.com/file/d/TU_ID/view"
+    },
+    {
+      "id": 14,
+      "titulo": "El día que se abrió el cielo",
+      "autor": "Samantha Shannon",
+      "genero": "Fantasía Épica",
+      "sinopsis": "Precuela de El Priorato del Naranjo, centrada en los eventos que forjaron la leyenda del Este y el Oeste.",
+      "portada": "https://books.google.com/books/content?id=96uQEAAAQBAJ&printsec=frontcover&img=1&zoom=1",
+      "enlace": "https://drive.google.com/file/d/TU_ID/view"
+    },
+    {
+      "id": 15,
+      "titulo": "El trono de jazmín",
+      "autor": "Tasha Suri",
+      "genero": "Fantasía",
+      "sinopsis": "Una alianza prohibida para derrocar un imperio injusto en una tierra llena de magia de sangre.",
+      "portada": "https://books.google.com/books/content?id=XmYpEAAAQBAJ&printsec=frontcover&img=1&zoom=1",
+      "enlace": "https://drive.google.com/file/d/TU_ID/view"
+    },
+    {
+      "id": 16,
+      "titulo": "La hipótesis del amor",
+      "autor": "Ali Hazelwood",
+      "genero": "Romance",
+      "sinopsis": "Olive Smith no cree en relaciones duraderas, pero un experimento de citas fingidas sale inesperadamente bien.",
+      "portada": "https://books.google.com/books/content?id=uNstEAAAQBAJ&printsec=frontcover&img=1&zoom=1",
+      "enlace": "https://drive.google.com/file/d/TU_ID/view"
+    },
+    {
+      "id": 17,
+      "titulo": "Cariño, cuánto te odio",
+      "autor": "Sally Thorne",
+      "genero": "Romance",
+      "sinopsis": "Lucy y Joshua se odian. O eso creen, hasta que un ascensor los obliga a ver la realidad.",
+      "portada": "https://books.google.com/books/content?id=38v7DwAAQBAJ&printsec=frontcover&img=1&zoom=1",
+      "enlace": "https://drive.google.com/file/d/TU_ID/view"
+    },
+    {
+      "id": 18,
+      "titulo": "La ciudad de los fantasmas",
+      "autor": "Victoria Schwab",
+      "genero": "Fantasía Juvenil",
+      "sinopsis": "Cassidy puede cruzar el Velo hacia el mundo de los espíritus. En Edimburgo descubrirá peligros reales.",
+      "portada": "https://books.google.com/books/content?id=uIthDwAAQBAJ&printsec=frontcover&img=1&zoom=1",
+      "enlace": "https://drive.google.com/file/d/TU_ID/view"
+    },
+    {
+      "id": 19,
+      "titulo": "Personas normales",
+      "autor": "Sally Rooney",
+      "genero": "Ficción Contemporánea",
+      "sinopsis": "La relación intermitente y profunda de dos jóvenes que se marcan la vida a lo largo de los años.",
+      "portada": "https://books.google.com/books/content?id=pWWYDwAAQBAJ&printsec=frontcover&img=1&zoom=1",
+      "enlace": "https://drive.google.com/file/d/TU_ID/view"
+    },
+    {
+      "id": 20,
+      "titulo": "La casa en el mar más azul",
+      "autor": "TJ Klune",
+      "genero": "Fantasía Feel-good",
+      "sinopsis": "Linus Baker encuentra el hogar que no sabía que necesitaba en un orfanato muy especial.",
+      "portada": "https://books.google.com/books/content?id=wzHGDwAAQBAJ&printsec=frontcover&img=1&zoom=1",
+      "enlace": "https://drive.google.com/file/d/TU_ID/view"
+    }
+  ]
