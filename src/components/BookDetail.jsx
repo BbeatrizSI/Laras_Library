@@ -10,7 +10,7 @@ export default function BookDetail({ libro, onClose }) {
 			<div className="absolute inset-0" onClick={onClose}></div>
 
 			{/* Contenedor del Modal */}
-			<div className="relative bg-white w-full max-w-lg rounded-t-3xl sm:rounded-2xl shadow-2xl overflow-hidden flex flex-col max-h-[92vh] animate-in slide-in-from-bottom duration-300">
+			<div className="relative bg-white w-full max-w-xl rounded-t-3xl sm:rounded-2xl shadow-2xl overflow-hidden flex flex-col max-h-[92vh] animate-in slide-in-from-bottom duration-300">
 				{/* Barra superior estética para móviles */}
 				<div className="w-12 h-1.5 bg-gray-300 rounded-full mx-auto my-3 sm:hidden"></div>
 
@@ -77,11 +77,11 @@ export default function BookDetail({ libro, onClose }) {
 							rel="noreferrer"
 							className="w-full bg-blue-600 hover:bg-blue-700 text-white! no-underline! py-4 rounded-2xl font-bold text-center shadow-lg shadow-blue-200 block transition-all active:scale-[0.98]"
 						>
-							Leer Libro en Drive
+							Obtener archivo epub de Drive
 						</a>
 						<button
 							onClick={onClose}
-							className="w-full bg-gray-100 hover:bg-gray-200 text-gray-500 py-4 rounded-2xl font-bold transition-colors active:scale-[0.98]"
+							className="w-full bg-gray-500 hover:bg-gray-200 text-gray-700 py-4 rounded-2xl font-bold transition-colors active:scale-[0.98]"
 						>
 							Volver a la biblioteca
 						</button>
