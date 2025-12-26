@@ -1,0 +1,1 @@
+if('serviceWorker' in navigator) {window.addEventListener('load', () => {navigator.serviceWorker.register('/Laras_Library/sw.js', { scope: '/Laras_Library/' })})}
