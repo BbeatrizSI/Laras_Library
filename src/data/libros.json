@@ -1,182 +1,222 @@
 [
-    {
-      "id": 1,
-      "titulo": "Como si fuera nuestra primera vez",
-      "autor": "Verónica Espinosa",
-      "genero": "Romance Lésbico",
-      "sinopsis": "Una historia contemporánea que explora la fragilidad de las segundas oportunidades. Tras años de distancia, la vida vuelve a cruzar a dos mujeres que deberán decidir si los errores del pasado pesan más que la posibilidad de redescubrirse. Es una novela íntima sobre la madurez emocional y el valor de permitirse volver a sentir la chispa del primer encuentro cuando ya nada es igual.",
-      "portada": "https://m.media-amazon.com/images/I/81AOJ1CIx9L._SL1500_.jpg",
-      "enlace": "https://drive.google.com/file/d/TU_ID/view"
-    },
-    {
-      "id": 2,
-      "titulo": "Náufragas",
-      "autor": "Nerea Morte",
-      "genero": "Romance",
-      "sinopsis": "Dos vidas a la deriva que encuentran un puerto seguro la una en la otra, enfrentando sus miedos y el pasado.",
-      "portada": "https://m.media-amazon.com/images/I/71Fs24jdSHL._SL1500_.jpg",
-      "enlace": "https://drive.google.com/file/d/TU_ID/view"
-    },
-    {
-      "id": 3,
-      "titulo": "Besos sabor a chocolate",
-      "autor": "Clara Ann Simons",
-      "genero": "Romance Navideño",
-      "sinopsis": "Un relato dulce ambientado en Navidad donde un encuentro inesperado cambia los planes de invierno.",
-      "portada": "https://m.media-amazon.com/images/I/818uKoqi8bL._SL1500_.jpg",
-      "enlace": "https://drive.google.com/file/d/TU_ID/view"
-    },
-    {
-      "id": 4,
-      "titulo": "Una abogada por Navidad",
-      "autor": "Clara Ann Simons",
-      "genero": "Romance Navideño",
-      "sinopsis": "Leyes, nieve y un romance inesperado que pondrá a prueba las prioridades de una abogada muy ocupada.",
-      "portada": "https://m.media-amazon.com/images/I/71MGHqmO68L._SL1500_.jpg",
-      "enlace": "https://drive.google.com/file/d/TU_ID/view"
-    },
-    {
-      "id": 5,
-      "titulo": "Reencuentro en Navidad",
-      "autor": "Judit Tarazaga",
-      "genero": "Romance Navideño",
-      "sinopsis": "El regreso a casa por vacaciones trae consigo un encuentro con el pasado que aún tiene mucho que decir.",
-      "portada": "https://books.google.com/books/content?id=f_GZEAAAQBAJ&printsec=frontcover&img=1&zoom=1",
-      "enlace": "https://drive.google.com/file/d/TU_ID/view"
-    },
-    {
-      "id": 6,
-      "titulo": "La soledad de Bloomsbury",
-      "autor": "Sonia Lasa",
-      "genero": "Histórico / Romance",
-      "sinopsis": "En el Londres de los años 50, la lucha por la libertad individual y el amor se entrelazan.",
-      "portada": "https://books.google.com/books/content?id=L8LZEAAAQBAJ&printsec=frontcover&img=1&zoom=1",
-      "enlace": "https://drive.google.com/file/d/TU_ID/view"
-    },
-    {
-      "id": 7,
-      "titulo": "Carol",
-      "autor": "Patricia Highsmith",
-      "genero": "Clásico / Romance",
-      "sinopsis": "La emblemática historia de amor entre Therese y Carol, desafiando las convenciones sociales de los años 50.",
-      "portada": "https://books.google.com/books/content?id=XmR8DwAAQBAJ&printsec=frontcover&img=1&zoom=1",
-      "enlace": "https://drive.google.com/file/d/TU_ID/view"
-    },
-    {
-      "id": 8,
-      "titulo": "TOUSY MOUSY",
-      "autor": "Sangue Shi",
-      "genero": "Romance Victoriano",
-      "sinopsis": "Un delicado romance de época donde las flores y los gestos silenciosos dicen más que las palabras.",
-      "portada": "https://books.google.com/books/content?id=U8LZEAAAQBAJ&printsec=frontcover&img=1&zoom=1",
-      "enlace": "https://drive.google.com/file/d/TU_ID/view"
-    },
-    {
-      "id": 9,
-      "titulo": "La seducción",
-      "autor": "Sara Torres",
-      "genero": "Ficción Queer",
-      "sinopsis": "Una novela sobre el deseo, la espera y la anatomía de la atracción entre mujeres.",
-      "portada": "https://books.google.com/books/content?id=B5m0EAAAQBAJ&printsec=frontcover&img=1&zoom=1",
-      "enlace": "https://drive.google.com/file/d/TU_ID/view"
-    },
-    {
-      "id": 10,
-      "titulo": "Tomates verdes fritos",
-      "autor": "Fannie Flagg",
-      "genero": "Drama / Amistad",
-      "sinopsis": "Un viaje emocional a través de la amistad y la valentía de dos mujeres en el sur de Estados Unidos.",
-      "portada": "https://books.google.com/books/content?id=S0-yDwAAQBAJ&printsec=frontcover&img=1&zoom=1",
-      "enlace": "https://drive.google.com/file/d/TU_ID/view"
-    },
-    {
-      "id": 11,
-      "titulo": "Bahía Negra",
-      "autor": "Úrsula Guarnido",
-      "genero": "Thriller Romántico",
-      "sinopsis": "Misterio y pasión se encuentran en un pueblo donde todos esconden algo tras la fachada de calma.",
-      "portada": "https://books.google.com/books/content?id=HMLZEAAAQBAJ&printsec=frontcover&img=1&zoom=1",
-      "enlace": "https://drive.google.com/file/d/TU_ID/view"
-    },
-    {
-      "id": 12,
-      "titulo": "Bajo la luz de Bourbon Street",
-      "autor": "Úrsula Guarnido",
-      "genero": "Romance Lésbico",
-      "sinopsis": "La vibrante Nueva Orleans es el escenario donde la música y el amor fluyen sin descanso.",
-      "portada": "https://books.google.com/books/content?id=IMLZEAAAQBAJ&printsec=frontcover&img=1&zoom=1",
-      "enlace": "https://drive.google.com/file/d/TU_ID/view"
-    },
-    {
-      "id": 13,
-      "titulo": "El priorato del naranjo",
-      "autor": "Samantha Shannon",
-      "genero": "Fantasía Épica",
-      "sinopsis": "Una épica sobre jinetes de dragones, reinas y una antigua amenaza que renace de las cenizas.",
-      "portada": "https://books.google.com/books/content?id=0XmIDwAAQBAJ&printsec=frontcover&img=1&zoom=1",
-      "enlace": "https://drive.google.com/file/d/TU_ID/view"
-    },
-    {
-      "id": 14,
-      "titulo": "El día que se abrió el cielo",
-      "autor": "Samantha Shannon",
-      "genero": "Fantasía Épica",
-      "sinopsis": "Precuela de El Priorato del Naranjo, centrada en los eventos que forjaron la leyenda del Este y el Oeste.",
-      "portada": "https://books.google.com/books/content?id=96uQEAAAQBAJ&printsec=frontcover&img=1&zoom=1",
-      "enlace": "https://drive.google.com/file/d/TU_ID/view"
-    },
-    {
-      "id": 15,
-      "titulo": "El trono de jazmín",
-      "autor": "Tasha Suri",
-      "genero": "Fantasía",
-      "sinopsis": "Una alianza prohibida para derrocar un imperio injusto en una tierra llena de magia de sangre.",
-      "portada": "https://books.google.com/books/content?id=XmYpEAAAQBAJ&printsec=frontcover&img=1&zoom=1",
-      "enlace": "https://drive.google.com/file/d/TU_ID/view"
-    },
-    {
-      "id": 16,
-      "titulo": "La hipótesis del amor",
-      "autor": "Ali Hazelwood",
-      "genero": "Romance",
-      "sinopsis": "Olive Smith no cree en relaciones duraderas, pero un experimento de citas fingidas sale inesperadamente bien.",
-      "portada": "https://books.google.com/books/content?id=uNstEAAAQBAJ&printsec=frontcover&img=1&zoom=1",
-      "enlace": "https://drive.google.com/file/d/TU_ID/view"
-    },
-    {
-      "id": 17,
-      "titulo": "Cariño, cuánto te odio",
-      "autor": "Sally Thorne",
-      "genero": "Romance",
-      "sinopsis": "Lucy y Joshua se odian. O eso creen, hasta que un ascensor los obliga a ver la realidad.",
-      "portada": "https://books.google.com/books/content?id=38v7DwAAQBAJ&printsec=frontcover&img=1&zoom=1",
-      "enlace": "https://drive.google.com/file/d/TU_ID/view"
-    },
-    {
-      "id": 18,
-      "titulo": "La ciudad de los fantasmas",
-      "autor": "Victoria Schwab",
-      "genero": "Fantasía Juvenil",
-      "sinopsis": "Cassidy puede cruzar el Velo hacia el mundo de los espíritus. En Edimburgo descubrirá peligros reales.",
-      "portada": "https://books.google.com/books/content?id=uIthDwAAQBAJ&printsec=frontcover&img=1&zoom=1",
-      "enlace": "https://drive.google.com/file/d/TU_ID/view"
-    },
-    {
-      "id": 19,
-      "titulo": "Personas normales",
-      "autor": "Sally Rooney",
-      "genero": "Ficción Contemporánea",
-      "sinopsis": "La relación intermitente y profunda de dos jóvenes que se marcan la vida a lo largo de los años.",
-      "portada": "https://books.google.com/books/content?id=pWWYDwAAQBAJ&printsec=frontcover&img=1&zoom=1",
-      "enlace": "https://drive.google.com/file/d/TU_ID/view"
-    },
-    {
-      "id": 20,
-      "titulo": "La casa en el mar más azul",
-      "autor": "TJ Klune",
-      "genero": "Fantasía Feel-good",
-      "sinopsis": "Linus Baker encuentra el hogar que no sabía que necesitaba en un orfanato muy especial.",
-      "portada": "https://books.google.com/books/content?id=wzHGDwAAQBAJ&printsec=frontcover&img=1&zoom=1",
-      "enlace": "https://drive.google.com/file/d/TU_ID/view"
-    }
-  ]
+	{
+		"id": 1,
+		"titulo": "Atmosphere",
+		"autor": "Taylor Jenkins Reid",
+		"genero": "Romance Lésbico / Ficción",
+		"año": 2024,
+		"paginas": 120,
+		"sinopsis": "Una historia corta pero intensa que explora la conexión eléctrica entre dos mujeres en un entorno cinematográfico. Con la pluma característica de la autora, Atmosphere disecciona el deseo y la ambición en un relato que se siente como un suspiro inolvidable.",
+		"portada": "https://m.media-amazon.com/images/I/71doPz0aroL._SL1500_.jpg",
+		"enlace": "https://drive.google.com/file/d/1vANclHFfk2WV06_BBCaz2z0JdxYsnM9f/view?usp=drive_link"
+	},
+	{
+		"id": 2,
+		"titulo": "Los siete maridos de Evelyn Hugo",
+		"autor": "Taylor Jenkins Reid",
+		"genero": "Ficción Histórica / Queer",
+		"año": 2017,
+		"paginas": 416,
+		"sinopsis": "Evelyn Hugo, el icono de Hollywood, decide contar la verdad sobre su vida glamurosa y escandalosa. Pero a medida que narra la historia de sus siete maridos, sale a la luz su único y verdadero amor: Celia St. James. Una odisea sobre la fama, la ambición y el amor prohibido.",
+		"portada": "https://m.media-amazon.com/images/I/71bhDDYAxGL._SL1500_.jpg",
+		"enlace": "https://drive.google.com/file/d/TU_ID/view"
+	},
+	{
+		"id": 3,
+		"titulo": "Bahía Negra",
+		"autor": "Úrsula Guarnido",
+		"genero": "Thriller Romántico",
+		"año": 2025,
+		"paginas": 330,
+		"sinopsis": "Misterio y pasión se encuentran en un pueblo donde todos esconden algo tras la fachada de calma. Una investigación criminal saca a la luz los trapos sucios de una comunidad cerrada mientras surge un romance inesperado.",
+		"portada": "https://m.media-amazon.com/images/I/71krtPiW2vL._SL1500_.jpg",
+		"enlace": "https://drive.google.com/file/d/TU_ID/view"
+	},
+	{
+		"id": 4,
+		"titulo": "Bajo la luz de Bourbon Street",
+		"autor": "Úrsula Guarnido",
+		"genero": "Romance Lésbico",
+		"año": 2024,
+		"paginas": 305,
+		"sinopsis": "La vibrante Nueva Orleans es el escenario donde la música y el amor fluyen sin descanso. Una historia sobre dejar atrás el pasado y permitirse brillar bajo las luces de neón del barrio francés.",
+		"portada": "https://mundoepublibre.com/wp-content/uploads/2024/07/bajo-la-luz-de-bourbon-street-ursula-guarnido.jpg",
+		"enlace": "https://drive.google.com/file/d/TU_ID/view"
+	},
+	{
+		"id": 5,
+		"titulo": "Besos sabor a chocolate",
+		"autor": "Clara Ann Simons",
+		"genero": "Romance Navideño",
+		"año": 2023,
+		"paginas": 156,
+		"sinopsis": "Un relato dulce ambientado en Navidad donde un encuentro inesperado cambia los planes de invierno. El aroma a cacao y las segundas oportunidades son los ingredientes principales de esta historia reconfortante.",
+		"portada": "https://m.media-amazon.com/images/I/818uKoqi8bL._SL1500_.jpg",
+		"enlace": "https://drive.google.com/file/d/TU_ID/view"
+	},
+	{
+		"id": 6,
+		"titulo": "Una abogada por Navidad",
+		"autor": "Clara Ann Simons",
+		"genero": "Romance Navideño",
+		"año": 2024,
+		"paginas": 224,
+		"sinopsis": "Leyes, nieve y un romance inesperado que pondrá a prueba las prioridades de una abogada muy ocupada que ha olvidado el verdadero sentido de las fiestas.",
+		"portada": "https://m.media-amazon.com/images/I/71MGHqmO68L._SL1500_.jpg",
+		"enlace": "https://drive.google.com/file/d/TU_ID/view"
+	},
+	{
+		"id": 7,
+		"titulo": "El día que se abrió el cielo",
+		"autor": "Samantha Shannon",
+		"genero": "Fantasía Épica (Precuela)",
+		"año": 2023,
+		"paginas": 816,
+		"sinopsis": "Precuela de El Priorato del Naranjo. Narra los eventos que forjaron la leyenda del Este y el Oeste 500 años antes de la historia original. Una epopeya de jinetes de dragones y sacrificios heróicos.",
+		"portada": "https://m.media-amazon.com/images/I/91+dhjdv4-L._SL1500_.jpg",
+		"enlace": "https://drive.google.com/file/d/TU_ID/view"
+	},
+	{
+		"id": 8,
+		"titulo": "El priorato del naranjo",
+		"autor": "Samantha Shannon",
+		"genero": "Fantasía Épica",
+		"año": 2019,
+		"paginas": 848,
+		"sinopsis": "Una épica sobre jinetes de dragones, reinas y una antigua amenaza que renace de las cenizas. La relación entre Ead y la reina Sabran es el núcleo de esta historia de salvación mundial.",
+		"portada": "https://m.media-amazon.com/images/I/91R4oVybJZL._SL1500_.jpg",
+		"enlace": "https://drive.google.com/file/d/TU_ID/view"
+	},
+	{
+		"id": 9,
+		"titulo": "El trono de jazmín",
+		"autor": "Tasha Suri",
+		"genero": "Fantasía (Libro 1)",
+		"año": 2021,
+		"paginas": 560,
+		"sinopsis": "Una princesa cautiva y una sirvienta con poderes mágicos prohibidos forman una alianza para derrocar un imperio injusto en una tierra llena de magia de sangre.",
+		"portada": "https://m.media-amazon.com/images/I/81QWh8PhX8L._SL1500_.jpg",
+		"enlace": "https://drive.google.com/file/d/TU_ID/view"
+	},
+	{
+		"id": 10,
+		"titulo": "La espada de hiedra",
+		"autor": "Tasha Suri",
+		"genero": "Fantasía (Libro 2)",
+		"año": 2023,
+		"paginas": 608,
+		"sinopsis": "La esperada continuación de El trono de jazmín. Malini y Priya deben enfrentar las consecuencias de su alianza mientras la guerra se extiende y los dioses exigen sacrificios mayores.",
+		"portada": "https://m.media-amazon.com/images/I/917rgsuawEL._SL1500_.jpg",
+		"enlace": "https://drive.google.com/file/d/TU_ID/view"
+	},
+	{
+		"id": 11,
+		"titulo": "Carol",
+		"autor": "Patricia Highsmith",
+		"genero": "Clásico / Romance",
+		"año": 1952,
+		"paginas": 320,
+		"sinopsis": "La emblemática historia de amor entre Therese y Carol, desafiando las convenciones sociales de los años 50 en un viaje por carretera que cambiará sus vidas para siempre.",
+		"portada": "https://m.media-amazon.com/images/I/61kHEElEyNL._SL1486_.jpg",
+		"enlace": "https://drive.google.com/file/d/TU_ID/view"
+	},
+	{
+		"id": 12,
+		"titulo": "Como si fuera nuestra primera vez",
+		"autor": "Verónica Espinosa",
+		"genero": "Romance Lésbico",
+		"año": 2024,
+		"paginas": 312,
+		"sinopsis": "Una historia contemporánea que explora la fragilidad de las segundas oportunidades. Tras años de distancia, la vida vuelve a cruzar a dos mujeres que deberán decidir si los errores del pasado pesan más que el amor.",
+		"portada": "https://m.media-amazon.com/images/I/81AOJ1CIx9L._SL1500_.jpg",
+		"enlace": "https://drive.google.com/file/d/TU_ID/view"
+	},
+	{
+		"id": 13,
+		"titulo": "Diferencias",
+		"autor": "Viri Vallera",
+		"genero": "Romance Lésbico",
+		"año": 2022,
+		"paginas": 280,
+		"sinopsis": "Una novela que profundiza en cómo las diferencias sociales y de personalidad pueden ser el puente hacia una conexión profunda. Dos mujeres aprenden que el amor no entiende de moldes establecidos.",
+		"portada": "https://m.media-amazon.com/images/I/8184CR-6eiL._SL1500_.jpg",
+		"enlace": "https://drive.google.com/file/d/TU_ID/view"
+	},
+	{
+		"id": 14,
+		"titulo": "Ella que llegó a ser el sol",
+		"autor": "Shelley Parker-Chan",
+		"genero": "Fantasía Histórica / Queer",
+		"año": 2021,
+		"paginas": 416,
+		"sinopsis": "En una China azotada por la hambruna, una niña toma la identidad de su hermano muerto para sobrevivir. Una reinvención épica del ascenso del fundador de la dinastía Ming con una fuerte carga de identidad queer.",
+		"portada": "https://m.media-amazon.com/images/I/71gzcLLCxlL._SL1500_.jpg",
+		"enlace": "https://drive.google.com/file/d/TU_ID/view"
+	},
+	{
+		"id": 15,
+		"titulo": "La seducción",
+		"autor": "Sara Torres",
+		"genero": "Ficción Queer",
+		"año": 2024,
+		"paginas": 304,
+		"sinopsis": "Una novela sobre el deseo, la espera y la anatomía de la atracción entre mujeres. Sara Torres disecciona la mirada sáfica con una sensibilidad poética única.",
+		"portada": "https://m.media-amazon.com/images/I/71f+9X+7cnL._SL1500_.jpg",
+		"enlace": "https://drive.google.com/file/d/TU_ID/view"
+	},
+	{
+		"id": 16,
+		"titulo": "La soledad de Bloomsbury",
+		"autor": "Sonia Lasa",
+		"genero": "Histórico / Romance",
+		"año": 2023,
+		"paginas": 342,
+		"sinopsis": "En el Londres de los años 50, la lucha por la libertad individual y el amor se entrelazan en el famoso barrio de los intelectuales. Un retrato de mujeres valientes en tiempos difíciles.",
+		"portada": "https://m.media-amazon.com/images/I/618P1zo7T1L._SL1166_.jpg",
+		"enlace": "https://drive.google.com/file/d/TU_ID/view"
+	},
+	{
+		"id": 17,
+		"titulo": "Náufragas",
+		"autor": "Nerea Morte",
+		"genero": "Romance",
+		"año": 2024,
+		"paginas": 288,
+		"sinopsis": "Dos vidas a la deriva que encuentran un puerto seguro la una en la otra, enfrentando sus miedos y el pasado en una historia de sanación mutua.",
+		"portada": "https://m.media-amazon.com/images/I/71Fs24jdSHL._SL1500_.jpg",
+		"enlace": "https://drive.google.com/file/d/TU_ID/view"
+	},
+	{
+		"id": 18,
+		"titulo": "Reencuentro en Navidad",
+		"autor": "Judit Tarazaga",
+		"genero": "Romance Navideño",
+		"año": 2022,
+		"paginas": 198,
+		"sinopsis": "El regreso a casa por vacaciones trae consigo un encuentro con el pasado que aún tiene mucho que decir. Una historia sobre el perdón y el espíritu navideño.",
+		"portada": "https://m.media-amazon.com/images/I/81-D3gnIHYL._SL1500_.jpg",
+		"enlace": "https://drive.google.com/file/d/TU_ID/view"
+	},
+	{
+		"id": 19,
+		"titulo": "Tomates verdes fritos",
+		"autor": "Fannie Flagg",
+		"genero": "Drama / Amistad",
+		"año": 1987,
+		"paginas": 416,
+		"sinopsis": "Un clásico inolvidable sobre la amistad y el amor de toda una vida entre Idgie y Ruth en la Alabama de los años 30.",
+		"portada": "https://m.media-amazon.com/images/I/715vQ3W+U5L._SL1500_.jpg",
+		"enlace": "https://drive.google.com/file/d/TU_ID/view"
+	},
+	{
+		"id": 20,
+		"titulo": "TOUSY MOUSY",
+		"autor": "Sangue Shi",
+		"genero": "Romance Victoriano",
+		"año": 2023,
+		"paginas": 260,
+		"sinopsis": "Un delicado romance de época donde las flores y los gestos silenciosos dicen más que las palabras en la rígida sociedad victoriana.",
+		"portada": "https://m.media-amazon.com/images/I/91woehZCIlL._SL1500_.jpg",
+		"enlace": "https://drive.google.com/file/d/TU_ID/view"
+	}
+]
