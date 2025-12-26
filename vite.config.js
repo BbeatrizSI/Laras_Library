@@ -19,7 +19,7 @@ export default defineConfig({
 				name: "Lara's Library",
 				short_name: "LaraLib",
 				description: "Mi biblioteca personal de lecturas sáficas",
-				theme_color: "#8b5cf6", // Color de la barra de estado
+				theme_color: "#9DBEB7", // Color de la barra de estado
 				icons: [
 					{
 						src: "pwa-192x192.png",

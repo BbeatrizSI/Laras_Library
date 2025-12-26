@@ -1,7 +1,11 @@
 import React from "react";
 
-export default function BookDetail({ libro, onClose }) {
-	// Si no hay libro seleccionado, no renderizamos nada
+export default function BookDetail({
+	libro,
+	onClose,
+	isFavorito,
+	onToggleFavorito,
+}) {
 	if (!libro) return null;
 
 	return (
@@ -10,7 +14,7 @@ export default function BookDetail({ libro, onClose }) {
 			<div className="absolute inset-0" onClick={onClose}></div>
 
 			{/* Contenedor del Modal */}
-			<div className="relative bg-white w-full max-w-xl rounded-t-3xl sm:rounded-2xl shadow-2xl overflow-hidden flex flex-col max-h-[92vh] animate-in slide-in-from-bottom duration-300">
+			<div className="relative bg-[#bcede2] w-full max-w-xl rounded-t-3xl sm:rounded-2xl shadow-2xl overflow-hidden flex flex-col max-h-[92vh] animate-in slide-in-from-bottom duration-300">
 				{/* Barra superior estética para móviles */}
 				<div className="w-12 h-1.5 bg-gray-300 rounded-full mx-auto my-3 sm:hidden"></div>
 
@@ -23,10 +27,10 @@ export default function BookDetail({ libro, onClose }) {
 							alt={libro.titulo}
 							className="w-40 h-56 object-cover rounded-lg shadow-2xl mb-4 border border-gray-100"
 						/>
-						<h2 className="text-2xl font-bold text-gray-900 text-center leading-tight">
+						<h2 className="text-2xl font-bold text-[#01362b] text-center leading-tight">
 							{libro.titulo}
 						</h2>
-						<p className="text-blue-600 font-semibold text-lg mt-1">
+						<p className="text-[#056a54] font-semibold text-lg mt-1">
 							{libro.autor}
 						</p>
 					</div>
@@ -70,18 +74,19 @@ export default function BookDetail({ libro, onClose }) {
 					</div>
 
 					{/* Botones de Acción */}
-					<div className="flex flex-col gap-3 pb-4">
-						<a
-							href={libro.enlace}
-							target="_blank"
-							rel="noreferrer"
-							className="w-full bg-blue-600 hover:bg-blue-700 text-white! no-underline! py-4 rounded-2xl font-bold text-center shadow-lg shadow-blue-200 block transition-all active:scale-[0.98]"
+					<div className="flex flex-col gap-3 mt-6">
+						<button
+							onClick={() => onToggleFavorito(libro.id)}
+							className="w-full bg-[#9deedd] text-gray-800 py-4 rounded-xl font-bold shadow-sm active:bg-[#80c8b7]"
 						>
-							Obtener archivo epub de Drive
-						</a>
+							{isFavorito
+								? "❤️ Quitar de favoritos"
+								: "🤍 Agregar como favorito"}
+						</button>
+
 						<button
 							onClick={onClose}
-							className="w-full bg-gray-500 hover:bg-gray-200 text-gray-700 py-4 rounded-2xl font-bold transition-colors active:scale-[0.98]"
+							className="w-full text-gray-600 py-2 font-medium text-sm"
 						>
 							Volver a la biblioteca
 						</button>
